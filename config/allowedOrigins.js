@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://technotes-0q2m.onrender.com"];
+const allowedOrigins = ["https://technotes-app.netlify.app"];
 
 module.exports = allowedOrigins;
